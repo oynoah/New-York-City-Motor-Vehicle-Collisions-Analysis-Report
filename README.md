@@ -4,7 +4,7 @@
 
 The primary objective of this analysis was to examine motor vehicle collisions data for New York City in the  years 2022 and 2023, with a focus on identifying trends, patterns and contributing factors to these incidents.
 
-The data was obtaineed from [Motor Vehicle Collisions - Crashes](https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9gi-nx95/about_data)
+The data was obtaineed from [NYC Open Data: Motor Vehicle Collisions - Crashes](https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9gi-nx95/about_data)
 
 ## **Key Findings**
 
